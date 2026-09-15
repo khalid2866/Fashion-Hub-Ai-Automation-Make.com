@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Env / secrets
+.env
+*.env
+credentials.json
+*.pem
+
+# Make.com exports that may contain private connection data
+*blueprint-with-connections*.json
